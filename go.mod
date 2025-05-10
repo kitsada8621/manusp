@@ -1,4 +1,4 @@
-module gitlab.com/kitsada.p39/manus
+module github.com/kitsada8621/manusp
 
 go 1.23.2
 
